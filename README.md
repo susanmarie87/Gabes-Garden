@@ -1,8 +1,6 @@
 # Gabe’s Garden #
-
+Welcome to Gabe's garden. Fed up with America's food choices in the cafeteria's across schools nationwide, 12-year-old Gabe has set out on a mission to change things. Gabe's idea is to have a Garden that is grown, cultivated, and maintained all by the students. The harvest will then be used for delicious and nutritious recipes in the our school's cafeterias. The goal is to inspire as many schools as possible to begin their own garden's providing **real** nutrition to our children again and not being served the normalized frankenfood which is surely contributing to the childhood chronic illness epidemic across the United States.
 *[](https://.github.io/ /) 
-
-![Game display on different screens
 
 
 ---
