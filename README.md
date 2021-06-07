@@ -1,45 +1,196 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Gabe’s Garden #
 
-Welcome USER_NAME,
+*[](https://.github.io/ /) 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+![Game display on different screens
 
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
 ---
 
-Happy coding!
+## Contents ##
+
+- [UX (User Experience)](#ux-user-experience)
+  - [Project Goals](#project-goals)
+  - [User Goals](#user-goals)
+  - [User Stories](#user-stories)
+  - [Site Owner Goals](#site-owner-goals)
+  - [User Requirements and Expectations](#user-requirements-and-expectations)
+  - [Design Choices](#design-choices)
+    - [Fonts](#fonts)
+    - [Colours](#colours)
+    - [Wireframes](#wireframes)
+- [Technologies](#technologies)
+  - [Languages](#languages)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
+- [Features](#features)
+  - [Features Implemented](#features-implemented)
+  - [Future Features](#future-features)
+  - [Considered Features](#considered-features)
+- [Testing](#testing)
+- [Deployment](#deployment)
+  - [Running Money Pot Locally](#running-money-pot-locally)
+- [Credits](#credits)
+  - [Audio](#audio)
+  - [Images](#images)
+  - [Colour](#colour)
+  - [Image editing](#image-editing)
+  - [Code Ideas](#code-ideas)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## UX (User Experience) ##
+
+### Project Goals ###
+
+The **goal**
+
+### User Goals ###
+
+- **Find the rules** 
+- **Play** 
+- **Learn**
+- **Learn** .
+- **Give feedback** 
+- **Contact** to the site owner.
+
+### User Stories ###
+
+
+### Site Owner Goals ###
+
+### User Requirements and Expectations ###
+
+
+### Design Choices ###
+
+#### Fonts ####
+
+
+#### Colours ####
+
+  
+#### Wireframes ####
+
+
+## Technologies ##
+
+### Languages ###
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Libraries ###
+
+- [jQuery](https://jquery.com/)
+- [Popper](https://popper.js.org/)
+- [Popper JS](https://popper.js.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+- [Google fonts](https://fonts.google.com/)
+  
+### Tools ###
+
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Color editor](https://coolors.co/)
+- [Image editor](https://www.birme.net/)
+
+[Back to content](#contents)
+
+---
+
+## Features ##
+
+### Features Implemented ###
+
+- **Responsive design**
+
+(/wireframes/)
+
+- **User-friendly display**
+
+
+
+(/wireframes/.jpg)
+
+- **Dashboard for easy navigation**
+
+
+
+
+
+- **Social media links**
+
+The site has social media links displayed at the footer of the page, as well as a button to take them to the contact/feedback form.
+
+
+- **Functional contact form**
+
+### Future Features ###
+
+
+### Considered Features ###
+
+- **Users do not have an option to choose levels or tasks of the game**
+
+  
+
+---
+
+## Testing ##
+
+Testing information can be found in a separate [](testing.md) file.
+
+---
+
+## Deployment ##
+
+The website was developed on *Visual Studio Code* and using *Git* pushed to *GitHub*, which hosts the repository. I made the following steps to deploy the site using *GitHub Pages*:
+
+- 
+
+###  ###
+
+
+[Back to content](#contents)
+
+---
+
+## Credits ##
+
+### Audio ###
+
+
+### Images ###
+
+### Colour ###
+
+
+
+### Image editing ###
+
+
+### Code ideas ###
+
+- 
+
+[Back to content](#contents)
+
+---
+
+## Acknowledgements ##
+
+I would like to recognize the people who have helped me through this project:
+
+- My mentor [Simen Daehlin](https://github.com/Eventyret) 
+
+
+[Back to content](#contents)
+
+---
+
+
