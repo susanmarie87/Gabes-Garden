@@ -1,5 +1,5 @@
 # Gabe’s Garden #
-Welcome to Gabe's garden. Fed up with America's food choices in the cafeteria's across schools nationwide, 12-year-old Gabe has set out on a mission to change things. Gabe's idea is to have a Garden that is grown, cultivated, and maintained all by the students. The harvest will then be used for delicious and nutritious recipes in the our school's cafeterias. The goal is to inspire as many schools as possible to begin their own garden's providing **real** nutrition to our children again and not being served the normalized frankenfood which is surely contributing to the childhood chronic illness epidemic across the United States.
+Welcome to Gabe's garden. Fed up with America's food choices in the cafeteria's across schools nationwide, 12-year-old Gabe has set out on a mission to change the way kids eat. Gabe's idea is to have a Garden that is grown, cultivated, and maintained all by the students. The harvest will then be used for delicious and nutritious recipes in the our school's cafeterias created and hopefully cooked, by the students. The goal is to inspire as many schools as possible to begin their own garden's providing **real** nutrition to our children again and not being served the normalized frankenfood which is surely contributing to the childhood chronic illness epidemic across the United States.
 *[](https://.github.io/ /) 
 
 
@@ -39,25 +39,36 @@ Welcome to Gabe's garden. Fed up with America's food choices in the cafeteria's 
 ---
 
 ## UX (User Experience) ##
+The site should be easy to understand.
 
 ### Project Goals ###
 
-The **goal**
+The **goal** 
 
 ### User Goals ###
 
-- **Find the rules** 
-- **Play** 
-- **Learn**
-- **Learn** .
-- **Give feedback** 
-- **Contact** to the site owner.
+- **Learn about the mission of Gabe's Garden** 
+- **Find out what's growin in the garden** 
+- **See what recipes are our favorite for each vegetable and fruit**
+- **Learn how to become a member** 
+- **Sign up to volunteer their time at the garden** 
+- **Contact** 
 
 ### User Stories ###
-
+As a user, I want to easily understand what the website is about.
+As a user, I want to see what is growing in the garden.
+As a user, I want to see how the fruits and vegetables are being used in recipes.
+As a user, I want to be able to register as a member.
+As a user, I want to be able to subscribe to a newsletter.
+As a user, I want to be able to signup to volunteer.
+As a user, I want to be able to easily access the links to social media.
+As a user, I want to be able to contact the organization with questions or concerns.
 
 ### Site Owner Goals ###
-
+As a site owner, I want to create an interactive environment for all demographics.
+As a site owner, i want to make sure people are inspired to start their own garden.
+As a site owner, I want people to be able to learn easy tips and tricks.
+As a site owner, I would like for the site visitor;s to be able to connect with social media links.
 ### User Requirements and Expectations ###
 
 
