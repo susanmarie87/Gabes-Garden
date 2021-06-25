@@ -174,13 +174,14 @@ The recipe  will be linked to the specific vegetable or fruit from the garden. A
 ## Events?
 
 Gabe's Garden will look to host events that will inspire guests of all ages. Events will include: classes, parties, festivals, and much more. The events page will look simialr to index page with a different image and cards that will display upcoming events. 
+
 ## LogIn
+- The login page will be a form with two inputs. One input will be for their email and the second input will be their password. 
 
 ## SignUp
+- Similar to the login page, the user will be met with a form. This will ask for basic information an email and password. 
 
 
-**Mission Statement**
-Our mission statement will displayed right under the Hero image. 
 ### Features Implemented ###
 
 - **Responsive design**
