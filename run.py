@@ -10,6 +10,22 @@ def index():
     return render_template("index.html")
 
 
+
+@app.route("/contact")
+def contact():
+    return render_template("contact.html")
+
+
+@app.route("/events")
+def events():
+    return render_template("events.html")
+
+
+@app.route("/login")
+def login():
+    return render_template("login.html")
+
+
 if __name__ == "__main__":
     app.run(
         host=os.environ.get("IP", "0.0.0.0"),
